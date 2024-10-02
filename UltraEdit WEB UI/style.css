@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+header {
+    margin-top: 2%;
+}
+
+.logo img {
+    width: 164px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* border:2px solid black; */
+}
+
+.right ul {
+    display: flex;
+    gap: 34px;
+
+}
+
+.right ul li {
+    display: flex;
+    list-style: none;
+    cursor: pointer;
+    transform: scale(1,1);
+    transition: transform 0.5s ease;
+}
+
+.right ul li:hover{
+    transform: scale(1.4,1.4);
+}
+
+#head-line {
+    font-size: 48px;
+    font-weight: 300;
+    line-height: 1.3em;
+    transform: perspective(1) scaleZ(1) rotateX(0deg);
+    transition: transform 0.5s ease;
+    cursor: pointer;
+}
+
+#head-line:hover{
+    transform: perspective(500px) scaleZ(2) rotateX(45deg);
+}
+
+
+
+.container {
+    margin-top: 7%;
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+}
+
+.subhead {
+    margin: 0 15%;
+}
+
+.subhead h3 {
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 1.3em;
+}
+
+#download-btn {
+    padding: 18px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    background-color: rgb(59, 170, 214);
+    border: none;
+    border-radius: 5px;
+    margin-top: 18px;
+    transform: translateY(1);
+    transition: transform 0.5s ease;
+    cursor: pointer;
+}
+
+#download-btn:hover{
+    transform: translateY(-1.2em);
+}
+
