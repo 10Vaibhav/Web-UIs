@@ -1,6 +1,6 @@
 # Web UIs
 
-Welcome to my Web UIs repository! This showcase demonstrates my front-end development skills, featuring a collection of user interface elements and website components created using HTML, CSS, and a responsive CSS framework. This project highlights my ability to craft modern, responsive, and visually appealing web interfaces by leveraging both fundamental web technologies and popular frontend tools.
+Welcome to my Web UIs repository! This showcase demonstrates my front-end development expertise through a diverse collection of UI elements and website components. It features both faithful recreations and original designs, crafted using HTML, CSS, responsive frameworks, and JavaScript. This project highlights my ability to create modern, responsive, and visually appealing web interfaces for various purposes and styles.
 
 ## Project Overview
 
