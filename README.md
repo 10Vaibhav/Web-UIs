@@ -44,3 +44,6 @@ While this is a personal project showcasing my skills, I'm open to feedback and 
 ## Contact
 
 I'm always excited to discuss web development and design! If you have any questions about my process, my use of CSS frameworks, or would like to connect, please feel free to reach out.
+
+## 📄 License
+This repository is licensed under the [MIT License](LICENSE).
