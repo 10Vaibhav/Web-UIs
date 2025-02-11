@@ -27,7 +27,7 @@ function App() {
   const isDesktop = useMediaQuery("(min-width: 768px)");
 
   console.error(isDesktop)
-  
+
   useEffect(() => {
     if (isDesktop == false) {
       setSidebarOpen(false)
